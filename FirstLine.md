@@ -17,13 +17,17 @@ The Goal: by the end of this project, we will reach the intermediate software de
 
 <h4>Phase 1: (Starting from 2019.10) We will complete the following foundation courses through university open-courses.</h4>
 
-  1. Intro to Computer Science (Python)(MIT) - edX
-  2. Mathematics in CS (MIT) - edX
-  3. Data Structures (MIT) - edX
-  4. Intro to Algorithms.(MIT) -edX
+  1. Introduction to Computer Science and Programming using Python (MIT 6.0001) - edX
+  2. How to Code - Simple Data - edX
+  3. How to Code - Complex Data - edX
+  4. Introduction to Discrete Mathematics for Computer Science Specialization - Coursera
+      - Specialization with 5 courses, proceed in max speed.
+  5. Algorithmic Design and Techniques - edX UCSD MicroMaster element
+  6. Data Structures Fundamentals - edX UCSD MicroMaster element
+  7. Algorithms Specialization - Coursera Stanford (https://www.coursera.org/specializations/algorithms)
   
 <h4>Phase 2: (Starting by 2020.2)</h4>
 
-  5. Operating System
-  6. Compiler
+  5. Operating System - ops-class.org - Hack the Kernel
+  6. Compiler - Stanford Lagunita
   7. Online Specialization in Coursera/edX
