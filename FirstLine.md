@@ -1,5 +1,7 @@
 <h1>Road Map for State Planning Committee in Heavy Industry (All Union) </h1>
 
+<img src="https://static01.nyt.com/images/2017/09/24/business/24View/24View-jumbo.jpg" style="position: center">
+
 <p>
 On Oct.2nd.2019, I have launched a series of projects combined with onlines courses, online CS learning community and github open-sources projects. This effort is to build a strong foundation of computer science for further academic and professional purposes. 
 </p>
