@@ -24,9 +24,9 @@ The Goal: by the end of this project, we will reach the intermediate software de
       - Specialization with 5 courses, proceed in max speed.
   5. Algorithmic Design and Techniques - edX UCSD MicroMaster element
   6. Data Structures Fundamentals - edX UCSD MicroMaster element
-  7. Algorithms Specialization - Coursera Stanford (https://www.coursera.org/specializations/algorithms)
+  7. <a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
   
-<h4>Phase 2: (Starting by 2020.2)</h4>
+<h4>Phase 2: (Expected Starting by 2020.2)</h4>
 
   5. Operating System - ops-class.org - Hack the Kernel
   6. Compiler - Stanford Lagunita
