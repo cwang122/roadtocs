@@ -20,11 +20,15 @@ The Goal: by the end of this project, we will reach the intermediate software de
   1. Introduction to Computer Science and Programming using Python (MIT 6.0001) - edX
   2. How to Code - Simple Data - edX
   3. How to Code - Complex Data - edX
-  4. Introduction to Discrete Mathematics for Computer Science Specialization - Coursera
+  4. <a href="https://www.coursera.org/specializations/algorithms">Introduction to Discrete Mathematics for Computer Science Specialization</a> - Coursera
       - Specialization with 5 courses, proceed in max speed.
   5. Algorithmic Design and Techniques - edX UCSD MicroMaster element
   6. Data Structures Fundamentals - edX UCSD MicroMaster element
   7. <a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
+  
+     [IF TIME LIMITED] GO ALT:
+      - <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms, Part I</a> - Coursera Princeton
+      - <a href="https://www.coursera.org/learn/algorithms-part2">Algorithms, Part II</a> - Coursera Princeton
   
 <h4>Phase 2: (Expected Starting by 2020.2)</h4>
 
