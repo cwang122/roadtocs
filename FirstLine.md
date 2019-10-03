@@ -26,7 +26,7 @@ The Goal: by the end of this project, we will reach the intermediate software de
   6. Data Structures Fundamentals - edX UCSD MicroMaster element
   7. <a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
   
-     [IF TIME LIMITED] GO ALT:
+     [IF TIME LIMITED] GO ALT: [Require Java!]
       - <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms, Part I</a> - Coursera Princeton
       - <a href="https://www.coursera.org/learn/algorithms-part2">Algorithms, Part II</a> - Coursera Princeton
   
