@@ -29,7 +29,9 @@ The Goal: by the end of this project, we will reach the intermediate software de
       - Specialization with 5 courses, proceed in max speed.
   6. Finish Data Structure and Algorithm Analysis in Java
   7. Algorithmic Design and Techniques - edX UCSD MicroMaster element
+  
  [ 8.] [Optional]Data Structures Fundamentals - edX UCSD MicroMaster element
+ 
  [ 9.] [Optional]<a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
   
   7.5 On Coursera
