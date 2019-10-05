@@ -22,14 +22,14 @@ The Goal: by the end of this project, we will reach the intermediate software de
   2. <a href="https://www.coursera.org/specializations/computer-fundamentals">Fundamentals of Computing Specialization</a> - Coursera
       - If the beginning courses are too easy, you can skip it.
       
-   [3.] [Optional]. How to code - Simple Data - Coursera</br>
-                 How to code - Complex Data - Coursera
+      OR [Optional]. --> How to code - Simple Data on Coursera --
+                    > How to code - Complex Data on Coursera
                  
   4. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm">Mathematics for Computer Science</a> - MIT OpenCourseWare(OCW)
-  - Using online reading, Learning Sequence:
-    Reading first -> Take video lecture -> Do recitation -> Do Assignment after 2 rounds.
-  - If not able to comprehend: 
-    <a href="https://www.coursera.org/specializations/algorithms">Introduction to Discrete Mathematics for Computer Science Specialization</a> - Coursera
+      - Using online reading, Learning Sequence:
+        Reading first -> Take video lecture -> Do recitation -> Do Assignment after 2 rounds.
+      - If not able to comprehend: 
+        <a href="https://www.coursera.org/specializations/algorithms">Introduction to Discrete Mathematics for Computer Science Specialization</a> - Coursera
   5. Object Oriented Java Programming: Data Structures and Beyond Specialization - Coursera
       - Specialization with 5 courses, proceed in max speed.
   6. Finish Data Structure and Algorithm Analysis in Java
