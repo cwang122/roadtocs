@@ -18,8 +18,13 @@ The Goal: by the end of this project, we will reach the intermediate software de
 <h3>Phase 1: (Starting from 2019.10) We will complete the following foundation courses through university open-courses.</h3>
 
   1. Introduction to Computer Science and Programming using Python (MIT 6.0001) - With Audit(No paying) - edX
-  2. How to code - Simple Data
-  3. How to code - Complex Data
+      - In combination use on course material, homework, assignment and others with MIT OCW
+  2. <a href="https://www.coursera.org/specializations/computer-fundamentals">Fundamentals of Computing Specialization</a> - Coursera
+      - If the beginning courses are too easy, you can skip it.
+      
+   [3.] [Optional]. How to code - Simple Data - Coursera</br>
+                 How to code - Complex Data - Coursera
+                 
   4. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm">Mathematics for Computer Science</a> - MIT OpenCourseWare(OCW)
   - Using online reading, Learning Sequence:
     Reading first -> Take video lecture -> Do recitation -> Do Assignment after 2 rounds.
