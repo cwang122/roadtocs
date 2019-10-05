@@ -32,11 +32,11 @@ The Goal: by the end of this project, we will reach the intermediate software de
  [ 8.] [Optional]Data Structures Fundamentals - edX UCSD MicroMaster element
  [ 9.] [Optional]<a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
   
-  7.5   GO: [Require Java!]
-  
-      - <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms, Part I</a> - Coursera Princeton
-      - <a href="https://www.coursera.org/learn/algorithms-part2">Algorithms, Part II</a> - Coursera Princeton
-      
+  7.5 On Coursera
+        <p>- <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms, Part I</a> - Coursera Princeton</br>  
+        - <a href="https://www.coursera.org/learn/algorithms-part2">Algorithms, Part II</a> - Coursera Princeton</p>
+
+
   8. Software Development using Java - Build some project.
   
 <h4>Phase 2: (Expected Starting by 2020.2)</h4>
