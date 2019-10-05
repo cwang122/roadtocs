@@ -17,18 +17,25 @@ The Goal: by the end of this project, we will reach the intermediate software de
 
 <h4>Phase 1: (Starting from 2019.10) We will complete the following foundation courses through university open-courses.</h4>
 
-  1. Introduction to Computer Science and Programming using Python (MIT 6.0001) - edX
-  2. How to Code - Simple Data - edX
-  3. How to Code - Complex Data - edX
-  4. <a href="https://www.coursera.org/specializations/algorithms">Introduction to Discrete Mathematics for Computer Science Specialization</a> - Coursera
+  1. Introduction to Computer Science and Programming using Python (MIT 6.0001) - With Audit(No paying) - edX
+  2. How to code - Simple Data
+  3. How to code - Complex Data
+  4. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm">Mathematics for Computer Science</a> - MIT OpenCourseWare(OCW)
+  - Using online reading, Learning Sequence:
+    Reading first -> Take video lecture -> Do recitation -> Do Assignment after 2 rounds.
+  - If not able to comprehend: 
+    <a href="https://www.coursera.org/specializations/algorithms">Introduction to Discrete Mathematics for Computer Science Specialization</a> - Coursera
+  5. Object Oriented Java Programming: Data Structures and Beyond Specialization - Coursera
       - Specialization with 5 courses, proceed in max speed.
-  5. Algorithmic Design and Techniques - edX UCSD MicroMaster element
-  6. Data Structures Fundamentals - edX UCSD MicroMaster element
-  7. <a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
+  6. Finish Data Structure and Algorithm Analysis in Java
+  7. Algorithmic Design and Techniques - edX UCSD MicroMaster element
+ [ 8.] [Optional]Data Structures Fundamentals - edX UCSD MicroMaster element
+ [ 9.] [Optional]<a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a> - Coursera Stanford
   
-     [IF TIME LIMITED] GO ALT: [Require Java!]
+  7.5   GO: [Require Java!]
       - <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms, Part I</a> - Coursera Princeton
       - <a href="https://www.coursera.org/learn/algorithms-part2">Algorithms, Part II</a> - Coursera Princeton
+  8. Software Development using Java - Build some project.
   
 <h4>Phase 2: (Expected Starting by 2020.2)</h4>
 
